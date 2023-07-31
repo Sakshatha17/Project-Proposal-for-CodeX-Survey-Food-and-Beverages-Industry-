@@ -2,9 +2,10 @@
 To provide Insights to the Marketing Team in Food and Beverage Industry. CodeX is a German beverage company which has introduced a Energy drink named 'Codex' that is aiming to make its mark in Indian market.  The organizer of this thrilling contest is 'Codebasics'.
 Codex is a German beverage company which is planning to establish in the Indian Market. A few months ago, they launched their Energy drink in 10 cities in India. Their Marketing team is responsible for increasing brand awareness, market share and product development. They conducted a survey in those 10 cities and received results from 10,000 respondents. We have been tasked to convert these survey results to meaningful insights which the team can use to drive actions.
 
-Data set = "C:\Data Science\Code Basics Challenge - #6\C6 Input Files\Dataset\dim_cities 1.csv"
-           "C:\Data Science\Code Basics Challenge - #6\C6 Input Files\Dataset\dim_repondents 1.csv"
-           "C:\Data Science\Code Basics Challenge - #6\C6 Input Files\Dataset\fact_survey_responses 1.csv"
+Data set :
+"C:\Data Science\Code Basics Challenge - #6\C6 Input Files\Dataset\dim_cities 1.csv"
+"C:\Data Science\Code Basics Challenge - #6\C6 Input Files\Dataset\dim_repondents 1.csv"
+"C:\Data Science\Code Basics Challenge - #6\C6 Input Files\Dataset\fact_survey_responses 1.csv"
 Meta data = "C:\Data Science\Code Basics Challenge - #6\C6 Input Files\Metadata.txt"
 
 
